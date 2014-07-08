@@ -23,7 +23,7 @@ import static org.hamcrest.core.StringContains.containsString;
 public class StudentTest extends InvokeMainTestCase
 {
 	//I want to see if I can commit
-	//See if i commit auto
+	//See if i commit autoasdasd
 
   @Test
   public void invokingMainWithNoArgumentsHasExitCodeOf1() {
